@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Vanessa Casillas!
+# 👋 Hi there, I’m Vanessa Arias Casillas!
 
 🎓 **Professor | Program Coordinator | Researcher**  
 💻 **Quantitative & Computing Lab (QCL)**  
