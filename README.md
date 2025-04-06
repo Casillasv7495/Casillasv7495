@@ -12,7 +12,7 @@ I’m a multi-passionate academic and tech strategist working at the crossroads 
 
 - 🧠 I’m interested in: GIS, spatial data storytelling, information systems, digital organization  
 - 🌱 Currently learning: Streamlined research workflows, sustainable task management, and data visualization  
-- 🛠️ Tools I use: ArcGIS • QGIS • Python • HTML/CSS • Git • Canva • Notion • Excel  
+- 🛠️ Tools I use: ArcGIS • QGIS • Python • HTML/CSS • Git • Canva • Excel  
 - ✍🏽 Sometimes I write about: tech in education, spatial thinking, and research strategies
 
 ---
