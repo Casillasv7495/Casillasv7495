@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi there, I’m Vanessa Casillas!
 
-<!--
-**Casillasv7495/Casillasv7495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Professor | Program Coordinator | Researcher**  
+💻 **Quantitative & Computing Lab (QCL)**  
+🗺️ **GIS & Info Systems Enthusiast | Craft Lover | Systems Thinker**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+I’m a multi-passionate academic and tech strategist working at the crossroads of spatial data, research, and student development. When I’m not managing student teams or designing workshops at QCL, you’ll find me exploring maps, organizing digital systems, or crafting something by hand.
+
+- 🧠 I’m interested in: GIS, spatial data storytelling, information systems, digital organization  
+- 🌱 Currently learning: Streamlined research workflows, sustainable task management, and data visualization  
+- 🛠️ Tools I use: ArcGIS • QGIS • Python • HTML/CSS • Git • Canva • Notion • Excel  
+- ✍🏽 Sometimes I write about: tech in education, spatial thinking, and research strategies
+
+---
+
+## 🔧 Projects in Progress
+
+- 🌍 **GIS for Everyday Use**: Building spatial awareness through hands-on workshops  
+- 📊 **QCL Toolkit**: Plug-and-play resources for student learning and technical growth  
+- 📝 **Dissertation to Papers**: Transforming research into publications on GIS & higher ed  
+
+---
+
+## 📌 My Recent Focus
+
+- ⚖️ Balancing work, research, wellness, and motherhood  
+- 💪 Rebuilding routines for health and productivity  
+- ✨ Navigating energy and boundaries in challenging environments  
+- 🤝 Cultivating professional connections with purpose and ease
+
+---
+
+## 📫 Let’s Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vanessaariascasillas/)  
+- 📧 Email: [vanessa.casillas@cmc.edu](mailto:vanessa.casillas@cmc.edu)  
+- 🌐 [https://vanessaariascasillas.wordpress.com/](https://vanessaariascasillas.wordpress.com/) *(if applicable)*
+
+---
+
+> “Do your work, but do it your way.” — Me, still living by it.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+
+
