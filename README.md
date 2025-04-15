@@ -46,6 +46,6 @@ I’m a multi-passionate academic and tech strategist working at the crossroads 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Casillasv7495&style=flat-square)
 
 
